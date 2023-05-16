@@ -1,6 +1,9 @@
 Nama    : Evarostiana Dewi
+
 Nim     : 312010295
+
 Kelas   : Ti.20.A2
+
 Matkul  : program mobile
 
 # uts_mobile
